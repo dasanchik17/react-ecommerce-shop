@@ -1,5 +1,11 @@
-import "./App.css";
+import Header from "./components/Header/Header";
 
-function App() {}
+function App() {
+  return (
+    <div className="wrapper">
+      <Header></Header>
+    </div>
+  );
+}
 
 export default App;
