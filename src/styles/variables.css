@@ -1,0 +1,17 @@
+:root {
+  /* Шрифты */
+  --font-primary: "Roboto", sans-serif;
+  --font-heading: "Montserrat", sans-serif;
+  --font-accent: "Manrope", sans-serif;
+
+  /* Контейнер */
+  --wrapper-width: 1280px;
+  --wrapper-margin-vertical: 50px;
+
+  /* Цвета */
+  --color-text: #222;
+  --color-background: #fff;
+
+  /* Цвета для изображений */
+  --color-background-img: #bcbcbc;
+}

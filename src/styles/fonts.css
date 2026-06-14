@@ -1,0 +1,27 @@
+/* Manrope (переменный) */
+@font-face {
+  font-family: "Manrope";
+  src: url("../assets/fonts/Manrope/Manrope-VariableFont_wght.ttf")
+    format("truetype-variations");
+  font-weight: 200 800;
+  font-display: swap;
+}
+
+/* Montserrat (переменный) */
+@font-face {
+  font-family: "Montserrat";
+  src: url("../assets/fonts/Montserrat/Montserrat-VariableFont_wght.ttf")
+    format("truetype-variations");
+  font-weight: 100 900;
+  font-display: swap;
+}
+
+/* Roboto (переменный с двумя осями: wdth, wght) */
+@font-face {
+  font-family: "Roboto";
+  src: url("../assets/fonts/Roboto/Roboto-VariableFont_wdth,wght.ttf")
+    format("truetype-variations");
+  font-weight: 100 900;
+  font-stretch: 50% 200%;
+  font-display: swap;
+}
